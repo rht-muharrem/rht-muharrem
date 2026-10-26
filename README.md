@@ -16,7 +16,7 @@
 
 ## 🔗 Contact
 
-<p align="center">
+<p>
   <a href="https://discord.gg/calixell" target="_blank"><img src="https://img.shields.io/badge/Sea%20Team-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
   <a href="https://open.spotify.com/user/khdpmt5yinktmfujo1gsgax2b" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
   <a href="https://www.instagram.com/rht.muharrem/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DC3175?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
