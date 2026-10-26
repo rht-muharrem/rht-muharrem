@@ -1,40 +1,61 @@
-# Hi 👋, I'm Muharrem
- <a href="https://discord.com/users/365115548872212482">
-    <img src="https://discord-card-topaz.vercel.app/api/card?id=365115548872212482&theme=dark&v=2" alt="Discord profilim" />
-  </a>
-<hr />
+<div align="center">
 
-🔗 &nbsp;**Contact with me**
-<p align="left">
-<a href="https://discord.gg/calixell" target"blank_"><img src="https://img.shields.io/badge/Sea Team%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://open.spotify.com/user/khdpmt5yinktmfujo1gsgax2b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.instagram.com/rht.muharrem/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-</br><img src="https://komarev.com/ghpvc/?username=rht-muharrem&color=dc143c"/>
-<hr />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=170&section=header&text=Muharrem&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 
-🔗 &nbsp;**Database**
-<p align="left">
-<a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" alt="css" width="40" height="40"></a>
- <a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/m/47/mysql.svg" alt="css" width="40" height="40"></a>
- <hr /> 
- 
-🔗 &nbsp; **Software Languages**
-<p align="left">  
-<a href="#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/c/18/css.svg" alt="css" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/csharp-1-1175241.png" alt="css" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" alt="css" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://static.cdnlogo.com/logos/s/90/sass.svg" alt="css" width="40" height="40" ></a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="css" width="40" height="40" ></a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" alt="css" width="40" height="40"></a>
- 
- <hr />
- 
-🔗 &nbsp;**Programs**
-<p align="left">
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" alt="visualstudio" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" alt="androidstudio" width="40" height="40" /></a>
-  
-  ##
- 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=5865F2&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+Muharrem;C%23+%C2%B7+Flutter+%C2%B7+SQL;Building+things+and+learning+every+day" alt="typing" />
+
+<br/><br/>
+
+<a href="https://discord.com/users/365115548872212482">
+  <img src="https://discord-card-topaz.vercel.app/api/card?id=365115548872212482&theme=dark&v=3" alt="Discord profile" />
+</a>
+
+</div>
+
+<br/>
+
+## 🔗 Contact
+
+<p align="center">
+  <a href="https://discord.gg/calixell" target="_blank"><img src="https://img.shields.io/badge/Sea%20Team-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
+  <a href="https://open.spotify.com/user/khdpmt5yinktmfujo1gsgax2b" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <a href="https://www.instagram.com/rht.muharrem/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DC3175?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dart,js,html,css,sass&perline=6" alt="Languages" />
+</p>
+
+**Frameworks & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,vscode,visualstudio,androidstudio,git,github&perline=6" alt="Tools" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rht-muharrem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rht-muharrem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=rht-muharrem&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rht-muharrem&color=5865F2&style=flat-square" alt="Profile views" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
+</div>
