@@ -2,11 +2,9 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/365115548872212482 )](https://discord.com/users/atombtw#2658) 
 
-<a href="https://discord.com/users/365115548872212482">
-  <img src="https://lanyard-profile-readme.vercel.app/api/365115548872212482?theme=dark&bg=0d1117&borderRadius=20px&animationDuration=1.5s&showDisplayName=true&hideDiscrim=true&idleMessage=Şu%20an%20sessizim%20%F0%9F%8C%99" alt="Discord Presence" />
-</a>
-
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Atombtw&theme=radical&show_icons=true&locale=en&layout=compact" alt="Atombtw"  /></p>
+ <a href="https://discord.com/users/365115548872212482">
+    <img src="https://discord-card-topaz.vercel.app/api/card?id=365115548872212482&theme=dark" alt="Discord profilim" />
+  </a>
 <hr />
 
 🔗 &nbsp;**Contact with me**
