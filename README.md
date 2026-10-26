@@ -1,7 +1,4 @@
 # Hi 👋, I'm Muharrem
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/365115548872212482 )](https://discord.com/users/atombtw#2658) 
-
  <a href="https://discord.com/users/365115548872212482">
     <img src="https://discord-card-topaz.vercel.app/api/card?id=365115548872212482&theme=dark" alt="Discord profilim" />
   </a>
