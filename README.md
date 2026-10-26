@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muharrem
  <a href="https://discord.com/users/365115548872212482">
-    <img src="https://discord-card-topaz.vercel.app/api/card?id=365115548872212482&theme=dark" alt="Discord profilim" />
+    <img src="https://discord-card-topaz.vercel.app/api/card?id=365115548872212482&theme=dark&v=2" alt="Discord profilim" />
   </a>
 <hr />
 
